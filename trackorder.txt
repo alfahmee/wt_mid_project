@@ -1,0 +1,17 @@
+[
+    {
+        "bookName": "Java",
+        "bid": "103",
+        "ostatus": "On The Way"
+    },
+    {
+        "bookName": "Bangla",
+        "bid": 100,
+        "ostatus": "Pick Order"
+    },
+    {
+        "bookName": "c ++",
+        "bid": 109,
+        "ostatus": "Not Delevered"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    
+    {
+        "bookName": "bangla",
+        "bid": 101,
+        "bprice": "300",
+        "bquantity": 1,
+        "sellerid": null
+    }
+]

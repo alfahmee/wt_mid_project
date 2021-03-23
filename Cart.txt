@@ -1,0 +1,8 @@
+[
+    
+    {
+        "bookName": "bangla",
+        "bid": 101,
+        "bprice": "300"
+    }
+]

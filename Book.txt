@@ -1,0 +1,20 @@
+[
+    {
+        "bookName": "Java",
+        "bid": 100,
+        "bauthor": "Cay S Horstmann",
+        "bpublisher": "Prentice",
+        "bedition": "11th",
+        "bprice": "300",
+        "bquantity": 4
+    },
+    {
+        "bookName": "bangla",
+        "bid": 101,
+        "bauthor": "Cay S Horstmannm",
+        "bpublisher": "Prentice",
+        "bedition": "11th",
+        "bprice": "300",
+        "bquantity": 1
+    }
+]
